@@ -1,5 +1,4 @@
-# Zendesk Coding Challenge
-Zendesk 2021 Internship Coding Challenge by Shreyansh Gilbile
+# Ticket Viewer
 
 To run the project, the required node modules will need to be installed. To do this, use the following command:
 
